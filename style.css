@@ -1,7 +1,8 @@
 body {background-color: #b213133d; width: 750px;margin-left: 25%;margin-right:750px;font-family: monospace;}
 ul{font-size: 20px;}
 .a{font-size: 30px;}
-
+img {border-radius: 8px;
+box-shadow: 4px 4px 16px rgba(98, 53, 31, 1);}
 .wrap {height:100%;
 display:-webkit-box;
 display:-webkit-flex;
